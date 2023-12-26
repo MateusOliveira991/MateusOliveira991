@@ -3,11 +3,11 @@
 
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
-:student: Sou formado em Administração e Pós Graduado em Marketing Digital
+:student: Hoje estudo Tecnologia da Informação e sou Residênte formado em Desenvolvimento de Software Full Stack pelo Serratec
 
-:student: Hoje estudo Tecnologia da Informação e faço residência em Desenvolvimento de Software Full Stack no Serratec
+:student: Já sou formado em Administração e Pós Graduado em Marketing Digital e, mesmo em transição de carreira, o conhecimento adquirido estará sempre comigo. 
 
-:computer: Sempre trabalhei na área financeira, mas hoje almejo ser um desenvolvedor FrontEnd!
+:computer: Minha principal experiência foi em uma instituição financeira, onde atuei desde minha graduação em Administração(2016) até dezembro de 2021. Desde então, tenho focado na transição de carreira para a área de TI.
 
 :house_with_garden: Moro em Petrópolis, região serrana do Estado do Rio de Janeiro
 
