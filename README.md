@@ -5,7 +5,7 @@
 
 :student: Hoje estou fazendo curso superior em Tecnologia da Informacão com previsão de formatura para dezembro de 2026.
 
-:student: Participei de alguns programas de TI como a Residência em TIC/software do Serratec ppor 5 meses, que foi uma imersão  intensa com vários assuntos relacionados a TI, com aulas ao vivo e prática. Também consegui ingressar no programa Desenvolve do Grupo O Boticário, que são 6 meses de curso com aulas ao vivo focada Desenvolvimento Mobile.
+:student: Participei de alguns programas de TI como a Residência em TIC/software do Serratec por 5 meses, que foi uma imersão  intensa com vários assuntos relacionados a TI, com aulas ao vivo e prática. Também consegui ingressar no programa Desenvolve do Grupo O Boticário, que são 6 meses de curso com aulas ao vivo focada Desenvolvimento Mobile.
 
 :student: Já sou formado em Administração e Pós Graduado em Marketing Digital e, mesmo em transição de carreira, o conhecimento adquirido estará sempre comigo. 
 
