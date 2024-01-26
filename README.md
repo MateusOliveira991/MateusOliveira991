@@ -23,11 +23,9 @@
 
 <div>
   <a href="[https://github.com/ellen2121](https://github.com/MateusOliveira991)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusOliveira991&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOliveira991&layout=compact&langs_count=16&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusOliveira991&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?userMateusOliveira991&layout=compact&langs_count=16&theme=maroongold/>
-  <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+  
 </div>
 
 - ![Snake animation](https://github.com/MateusOliveira991/MateusOliveira991/blob/output/github-contribution-grid-snake.svg)
