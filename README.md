@@ -13,7 +13,6 @@
 
 :house_with_garden: Moro em Petrópolis, região serrana do Estado do Rio de Janeiro
 
-🧑‍🍳: Amo cozinhar nas horas livres. Faço deliciosos pães e bolos 
  
 ## Sobre mim 📫
 <a href="https://www.linkedin.com/in/mateus-augusto-de-oliveira-a65a23a2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
