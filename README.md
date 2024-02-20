@@ -1,6 +1,6 @@
 # Oie, me chamo Mateus!
 
-Me conheça melhor através do meu: <a href="https://portifolio-mateus-oliveira-4ger.vercel.app/" target="_blank" >Portifólio</a> (em construção)
+Me conheça melhor através do meu: <a href="https://portifolio-mateus-oliveira-4ger.vercel.app/" target="_blank" >Portifólio</a>
 
 
 ## Bem vindo(a) ao meu perfil GitHub 👋
