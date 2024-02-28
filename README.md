@@ -6,7 +6,7 @@ Me conheça melhor através do meu [Portfólio](https://portifolio-mateus-olivei
 
 🎓 Atualmente estou cursando Tecnologia da Informação e com previsão de formatura para dezembro de 2026.
 
-🛠️ Participei de programas de TI, como a Residência em TIC/software do Serratec e o programa Desenvolve do Grupo O Boticário.
+🛠️ Participei de programas de TI, como a Residência em TIC/software do Serratec (5 meses) e o programa Desenvolve do Grupo O Boticário(6 meses).
 
 📚 Sou formado em Administração e Pós-graduado em Marketing Digital, e estou em transição de carreira para a área de TI.
 
