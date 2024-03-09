@@ -1,6 +1,6 @@
 # Olá! Eu sou o Mateus 👋
 
-Me conheça melhor através do meu [Portfólio](https://portifolio-mateus-oliveira-4ger.vercel.app/)
+Me conheça melhor através do meu [Portfólio](https://devmateusoliveira.com.br/)
 
 ## Bem-vindo ao meu perfil do GitHub 🚀
 
