@@ -4,13 +4,13 @@ Me conheça melhor através do meu [Portfólio](https://devmateusoliveira.com.br
 
 ## Bem-vindo ao meu perfil do GitHub 🚀
 
-🎓 Atualmente estou cursando Tecnologia da Informação e com previsão de formatura para dezembro de 2026.
+🎓 Atualmente estou cursando Tecnologia da Informação com previsão de formatura para dezembro de 2026.
 
 🛠️ Participei de programas de TI, como a Residência em TIC/software do Serratec (5 meses) e o programa Desenvolve do Grupo O Boticário(6 meses).
 
-📚 Sou formado em Administração e Pós-graduado em Marketing Digital, e estou em transição de carreira para a área de TI.
+🏢 Cheguei a área de TI por uma transição de carreira mas hoje sou apaixonado pela área. A mais de 2 anos que não consigo fazer outra coisa.
 
-🏢 Minha principal experiência foi em uma instituição financeira, onde atuei desde minha graduação em Administração até dezembro de 2021.
+📚 Sou formado em Administração e Pós-graduado em Marketing Digital, e nada tirará de mim os conhecimentos adquiridos nesses cursos, mas não pretendo mais seguir essas áreas. 
 
 🏡 Moro em Petrópolis, região serrana do Estado do Rio de Janeiro.
 
