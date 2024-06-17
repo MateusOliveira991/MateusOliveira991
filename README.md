@@ -8,7 +8,7 @@ Me conheça melhor através do meu [Portfólio](https://devmateusoliveira.com.br
 
 🛠️ Participei de programas de TI, como a Residência em TIC/software do Serratec (5 meses) e o programa Desenvolve do Grupo O Boticário(6 meses).
 
-🏢 Cheguei a área de TI por uma transição de carreira mas hoje sou apaixonado pela área. A mais de 2 anos que não consigo fazer outra coisa.
+🏢 Cheguei a área de TI por uma transição de carreira mas hoje sou apaixonado pela área. A mais de 2 anos que que tenho me entregado 100% a essa área.
 
 📚 Sou formado em Administração e Pós-graduado em Marketing Digital, e nada tirará de mim os conhecimentos adquiridos nesses cursos, mas não pretendo mais seguir essas áreas. 
 
@@ -21,7 +21,7 @@ Me conheça melhor através do meu [Portfólio](https://devmateusoliveira.com.br
 
 - HTML, CSS, JavaScript
 - Git, GitHub
-- Java, MySQL
+- Java, MySQL, PostgreSQL
 - Canva, Figma
 - Node.js, PostgreSQL, Postman
 - React, React Native, Bootstrap
