@@ -4,11 +4,12 @@ Me conheça melhor através do meu [Portfólio](https://devmateusoliveira.com.br
 
 ## Bem-vindo ao meu perfil do GitHub 🚀
 
-🎓 Atualmente estou cursando Tecnologia da Informação com previsão de formatura para dezembro de 2026.
+🛠️ Iniciei na área de tecnologia em janeiro de 2022. Hoje curso Tecnologia da Informação e estou iniciando minha carreira profissional em Desenvolvimento de software na CI&T, que é uma multinacional especialista em transformação tecnológica. 
 
-🛠️ Participei de programas de TI, como a Residência em TIC/software do Serratec (5 meses) e o programa Desenvolve do Grupo O Boticário(6 meses).
-
-🏢 Cheguei a área de TI por uma transição de carreira mas hoje sou apaixonado pela área. A mais de 2 anos que tenho me entregado 100% a ela.
+Minhas experiências práticas incluem:
+> Participação na Residência em TIC/Software Full Stack do Serratec, onde tive uma imersão intensiva de cinco meses em lógica de programação, React, React Native, HTML, CSS, banco de dados SQL, API Rest, Git, Scrum, entre outros.
+> Participação no programa Desenvolve do Grupo Boticário, focado em Desenvolvimento Mobile com Flutter, com duração de seis meses.
+> Desenvolvimento independente de aplicativos e páginas web, conforme pode ser visto em meu portfólio: devmateusoliveira.com.br.
 
 🏡 Moro em Petrópolis, região serrana do Estado do Rio de Janeiro.
 
