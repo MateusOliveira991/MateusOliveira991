@@ -13,7 +13,6 @@ Minhas experiências práticas incluem:
 
 🏡 Moro em Petrópolis, região serrana do Estado do Rio de Janeiro.
 
-## Sobre mim 📫
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-augusto-de-oliveira-a65a23a2/)
 
 ## Ferramentas e Tecnologias 🛠️
