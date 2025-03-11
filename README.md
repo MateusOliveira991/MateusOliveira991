@@ -1,10 +1,10 @@
 # Olá! Eu sou o Mateus 👋
-
+Sou estagiário em Desenvolvimento de Software na CI&T e curso superior em tecnológia da Informação.
 Me conheça melhor através do meu [Portfólio](https://devmateusoliveira.com.br/)
 
 ## Bem-vindo ao meu perfil do GitHub 🚀
 
-🛠️ Iniciei na área de tecnologia em janeiro de 2022. Hoje curso Tecnologia da Informação e estou iniciando minha carreira profissional em Desenvolvimento de software na CI&T, que é uma multinacional especialista em transformação tecnológica. 
+🛠️ Iniciei na área de tecnologia em janeiro de 2022. Hoje curso Tecnologia da Informação com previsão de formatura em Dezembro de 2026 e inicie em Março de 2025 minha carreira profissional em Desenvolvimento de software na CI&T como estagiário, que é uma multinacional especialista em transformação tecnológica. 
 
 Minhas experiências práticas incluem:
 > Participação na Residência em TIC/Software Full Stack do Serratec, onde tive uma imersão intensiva de cinco meses em lógica de programação, React, React Native, HTML, CSS, banco de dados SQL, API Rest, Git, Scrum, entre outros.
