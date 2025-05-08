@@ -1,6 +1,6 @@
 # Olá! Eu sou o Mateus 👋
 Sou estagiário em Desenvolvimento de Software na CI&T e curso superior em tecnológia da Informação.
-Me conheça melhor através do meu [Portfólio]([https://devmateusoliveira.com.br/](https://portfolio-profissional-indol.vercel.app/))
+Me conheça melhor através do meu [Portfólio](https://portfolio-profissional-indol.vercel.app/))
 
 ## Bem-vindo ao meu perfil do GitHub 🚀
 
